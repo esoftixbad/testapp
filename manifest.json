@@ -1,7 +1,7 @@
 {
-  "name": "BlazorApp1",
-  "short_name": "BlazorApp1",
-  "start_url": "/",
+  "name": "eSoftix",
+  "short_name": "eSoftix",
+  "start_url": "https://esoftixbad.github.io/testapp/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
